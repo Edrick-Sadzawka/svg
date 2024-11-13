@@ -1,0 +1,10 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+.titulo {
+    text-align: center;
+}
+.foto {
+    width: 20%;
+    height: 20%;
+}
